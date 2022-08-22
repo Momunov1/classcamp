@@ -1,0 +1,947 @@
+@media(max-width: 1440px)  {
+ .container{
+     width: 90%;
+ }
+
+}
+@media(max-width: 1200px)  {
+    .hero3 {
+        margin-left: 450px;
+    }
+    .class1 button {
+        margin-left: 208px;
+    }
+    .class22 {
+        margin-left: 100px;
+    }
+    .class3 {
+        margin-left: -250px;
+    }
+    .class-img {
+        margin-left: 200px;
+    }
+    .class-img2 {
+        margin-left: 450px;
+    }
+    .class88-img img {
+        margin-left: 100px;
+    }
+    .class99 {
+        height: 400px;
+    }
+    .class99 button {
+        margin-left: 250px;
+    }
+    .class99 h1 {
+        font-size: 53px;
+    }
+    .class99 p {
+        font-size: 20px;
+    }
+    .nine-img1 img{
+        width: 1080px;
+    }
+    .class101010 h1 {
+        font-size: 48px;
+    }
+    .class-top {
+        width: 515px;
+        height: 349px;
+    }
+    .class-top2 {
+        width: 515px;
+        height: 349px;
+    }
+    .class-title {
+        margin-left: -100px;
+    }
+    .class-tra {
+        height: 349px;
+    }
+    .class-block h1 {
+        padding: 20px;
+    }
+    .class-block h4{
+        padding: 5px;
+    }
+    .class-block p {
+        font-size: 12px;
+    }
+    .class-tra2 {
+        height: 349px;
+    }
+
+
+}
+@media(max-width: 1024px)  {
+    .hero3 {
+        margin-left: 250px;
+    }
+    .nine-img1 img {
+        width: 921px;
+    }
+    .class101010 h1 {
+        font-size: 48px;
+    }
+    .class-top {
+        height: 320px;
+        width: 90%;
+    }
+    .class-block{
+        width: 90%;
+    }
+    .class-top2 {
+        width: 415px;
+        height: 309px;
+    }
+    .class-tra2 {
+        width: 900px;
+        height: 320px;
+    }
+    .class-tra {
+        height: 319px;
+    }
+    .class-block {
+        width: 280px;
+    }
+    .class-fut {
+        margin-left: 170px;
+    }
+    .class-top {
+        margin-left: 10px;
+    }
+    .class1 button {
+        margin-left: 108px;
+    }
+    .class22 {
+        margin-left: 5px;
+    }
+    .class33 h1 {
+        font-size: 48px;
+        padding-bottom: 1px;
+    }
+    .class33 p {
+        font-size: 20px;
+    }
+    .class-text h1 {
+        font-size: 38px;
+    }
+    .class-text p {
+        font-size: 20px;
+    }
+    .class55 h1 {
+        font-size: 40px;
+    }
+    .class55 p {
+        font-size: 20px;
+    }
+    .class-img {
+        margin-left: 80px;
+    }
+    .class666 h1 {
+        font-size: 48px;
+    }
+    .class666 p {
+        font-size: 20px;
+    }
+    .class666{
+        margin-left: 40px;
+    }
+    .class7 h1{
+        font-size: 41px;
+    }
+    .class-img2 {
+        margin-left: 350px;
+    }
+    .class7 p {
+        font-size: 18px;
+    }
+    .swiper-slide img {
+        height: 400px;
+    }
+    .class88 h1{
+        font-size: 38px;
+    }
+    .class88-img img {
+        margin-left: 0;
+    }
+    .class88-img {
+        width: 940px;
+        height: 834px;
+    }
+    .class99 button {
+         margin-left: 150px;
+}
+
+
+}
+@media(max-width: 992px) {
+    .class88-img img {
+        margin-left: -50px;
+    }
+
+    .nine-img1 img {
+        width: 893px;
+    }
+
+    .class-block {
+        width: 270px;
+    }
+
+    .hero3 {
+        display: none;
+    }
+
+    .class1 h1 {
+        font-size: 50px;
+    }
+
+    .class1 button {
+        margin-left: 1px;
+    }
+
+    .class22 {
+        height: 470px;
+        width: 704px;
+    }
+
+    .class22 {
+        margin-left: -20px;
+    }
+
+    .class22 img {
+        width: 300px;
+        height: 470px;
+        margin-left: 450px;
+    }
+
+    .class33 h1 {
+        font-size: 20px;
+    }
+
+    .class33 p {
+        font-size: 15px;
+    }
+
+    .class333 {
+        width: 273px;
+        height: 419px;
+    }
+
+    .class333 img {
+        width: 200px;
+        height: 400px;
+        margin-left: 150px;
+        padding: 30px 0;
+    }
+
+    .class-444 img {
+        width: 455px;
+        height: 512px;
+    }
+    .class-text h1 {
+        font-size: 20px;
+    }
+    .class-text p {
+        font-size: 14px;
+    }
+    .class-text {
+        padding: 50px;
+    }
+    .class55 h1 {
+        font-size: 20px;
+    }
+    .class55 p {
+        font-size: 15px;
+    }
+    .class22 img {
+        margin-left: 550px;
+    }
+    .class22 {
+        margin-left: 40px;
+    }
+
+}
+@media(max-width: 768px)  {
+        .class-img img {
+            width: 420px;
+            height: 300px;
+        }
+    .class22 {
+        margin-left: 0;
+    }
+    .class22 {
+        height: 370px;
+        width: 604px;
+    }
+    .class22 img {
+        width: 200px;
+        height: 370px;
+    }
+        .class666 h1 {
+            font-size: 38px;
+        }
+        .class666 p {
+            font-size: 15px;
+        }
+        .class7 h1 {
+            font-size: 31px;
+        }
+        .class-img2 {
+            margin-left: 240px;
+        }
+        .class7 p {
+            font-size: 15px;
+        }
+        .swiper-slide img {
+            height: 350px;
+        }
+        .class88 p {
+            font-size: 20px;
+        }
+        .class88 h1 {
+            font-size: 28px;
+        }
+        .class88 h3 {
+            font-size: 20px;
+        }
+        .class88-img img {
+            width: 700px;
+            height: 600px;
+        }
+        .class99 button {
+            margin-left: 70px;
+        }
+        .class99 button {
+            font-size: 20px;
+            width: 200px;
+            height: 50px;
+        }
+        .nine-img1 img {
+            width: 691px;
+        }
+        .class99 h1 {
+            font-size: 43px;
+        }
+        .class999 {
+            padding: 80px;
+        }
+        .class99 button {
+            margin-left: 150px;
+        }
+        .class101010 h1 {
+            font-size: 38px;
+        }
+        .class-block {
+            width: 250px;
+        }
+        .class-block h4{
+            font-size: 8px;
+        }
+        .class-block h4 {
+            padding: 10px;
+            margin-left: -1px;
+        }
+        .class-block h1 {
+            font-size: 19px;
+        }
+        .class-block p {
+            font-size: 12px;
+        }
+        .class-fut {
+            margin-left: 140px;
+        }
+        .class-tra {
+            width: 150px;
+        }
+        .class-block {
+            width: 200px;
+        }
+        .class-block p {
+            margin-left: -1px;
+        }
+        .class-fut {
+            margin-left: 90px;
+        }
+        .class-tra2 {
+            width: 150px;
+        }
+        .class-fut2 {
+            padding: 5px 0;
+        }
+        .footer2 p {
+            font-size: 10px;
+        }
+        .footer2 h3{
+            font-size: 13px;
+        }
+    .class22 img {
+        margin-left: 500px;
+    }
+    .class333 img {
+        width: 150px;
+        height: 350px;
+    }
+    .class333 {
+        width: 200px;
+        height: 359px;
+        padding: 10px;
+    }
+    .class333 img {
+        padding: 1px 0;
+    }
+    .class3 {
+        margin-left: -200px;
+    }
+    .class33 h1 {
+        padding-bottom: 5px;
+    }
+    .class33 {
+        padding: 100px 150px;
+    }
+    .class3 {
+        padding: 10px;
+    }
+    .class-444 img {
+        width: 355px;
+        height: 412px;
+    }
+    .class-text h1 {
+        padding-bottom: 50px;
+    }
+    .class-img img {
+        width: 320px;
+        height: 250px;
+    }
+    .class55 h1 {
+        padding-bottom: 5px;
+    }
+    .class55 p {
+        font-size: 13px;
+    }
+    .class66 img {
+        padding: 5px;
+        margin-left: -100px;
+        width: 400px;
+        height: 264px;
+    }
+    .class66 img {
+        padding: 5px;
+        margin-left: -90px;
+        width: 300px;
+        height: 264px;
+    }
+    .class666 h1 {
+        font-size: 28px;
+    }
+    .class666 p {
+        font-size: 13px;
+    }
+    .class66 img {
+        padding: 5px;
+        margin-left: -1px;
+    }
+    .swiper-slide img {
+        height: 290px;
+    }
+    .class33 {
+        padding: 100px;
+        margin-left: 100px;
+    }
+    .class999 {
+        padding: 60px;
+    }
+    .class99 h1 {
+        font-size: 33px;
+    }
+    .class99 p {
+        font-size: 15px;
+        padding-bottom: 30px;
+    }
+    .class99 button {
+        font-size: 15px;
+        width: 150px;
+        height: 40px;
+    }
+    .class99 button {
+        margin-left: 190px;
+    }
+    .class99 {
+        height: 250px;
+    }
+    .class101010 h1 {
+        font-size: 30px;
+        padding: 20px;
+    }
+    .class-block h1 {
+        font-size: 17px;
+    }
+    .class-block p {
+        font-size: 12px;
+    }
+
+    
+}
+@media(max-width: 576px)  {
+    .hero2 a {
+        font-size: 12px;
+    }
+    .class1 h1 {
+        font-size: 20px;
+    }
+    .class1 p {
+        font-size: 15px;
+    }
+    .class1 button {
+        font-size: 18px;
+        width: 181px;
+        height: 46px;
+        margin-left: -40px;
+    }
+    .class1 p {
+        font-size: 13px;
+    }
+    .class22 {
+        height: 170px;
+        width: 90%;
+    }
+    .class22 img {
+        margin-left: 300px;
+        width: 200px;
+        padding: 100px 0;
+    }
+    .class33 h1 {
+        font-size: 13px;
+    }
+    .class33 p {
+        font-size: 10px;
+    }
+    .class333 {
+        width: 100px;
+        height: 259px;
+        padding: 10px;
+    }
+    .class333 img {
+        width: 150px;
+        height: 250px;
+        margin-left: 50px;
+    }
+    .class-444 img {
+        width: 255px;
+        height: 312px;
+    }
+    .class-img img {
+        width: 220px;
+        height: 200px;
+    }
+    .class55 h1 {
+        font-size: 15px;
+    }
+    .class55 p {
+        font-size: 9px;
+    }
+    .class66 img {
+        width: 200px;
+        height: 164px;
+    }
+    .class666 h1 {
+        font-size: 20px;
+    }
+    .class7 h1 {
+        font-size: 21px;
+    }
+    .class-img2 {
+        margin-left: 150px;
+    }
+    .class7 p {
+        font-size: 10px;
+    }
+    .class88 h1 {
+        font-size: 20px;
+    }
+    .class88 p {
+        font-size: 15px;
+    }
+    .class88 h3 {
+        font-size: 15px;
+    }
+    .class88-img img {
+        width: 500px;
+        height: 400px;
+    }
+    .class88-img {
+        height: 434px;
+    }
+    .class99 h1 {
+        font-size: 25px;
+    }
+    .class99 p {
+        font-size: 12px;
+    }
+    .class99 button {
+        margin-left: 140px;
+    }
+    .class99 button {
+        font-size: 10px;
+        width: 100px;
+        height: 30px;
+    }
+    .nine-img1 img {
+        width: 501px;
+    }
+    .class-block h1 {
+        font-size: 10px;
+    }
+    .class-block p {
+        font-size: 8px;
+    }
+    .class-block {
+        width: 150px;
+    }
+    .class-fut {
+        margin-left: 50px;
+    }
+    .class-top2 {
+        margin-left: 10px;
+    }
+    .class1 {
+        padding: 100px;
+    }
+    .class1 button {
+        margin-left: 45px;
+    }
+    .swiper-slide img {
+        height: 390px;
+        margin-left: 50px;
+    }
+    .footer1 a img {
+        width: 100px;
+        height: 50px;
+    }
+    .footer2 {
+        margin-left: 10px;
+    }
+    .footer1 {
+        margin-left: 10px;
+    }
+
+}
+@media(max-width: 451px)  {
+    .hero2 a {
+        font-size: 9px;
+    }
+    .class1 button {
+        margin-left: 4px;
+    }
+    .class22 img {
+        margin-left: 50px;
+        width: 500px;
+        padding: 100px 0;
+    }
+    .class333 {
+        width: 80px;
+        height: 200px;
+        padding: 10px;
+        margin-left: -50px;
+    }
+    .class-444 img {
+        width: 155px;
+        height: 212px;
+    }
+    .class-text h1 {
+        font-size: 15px;
+    }
+    .class-text p {
+        font-size: 10px;
+    }
+    .class-text h1 {
+        padding-bottom: 30px;
+    }
+    .class55 h1 {
+        font-size: 12px;
+    }
+    .class55 p {
+        font-size: 7px;
+    }
+    .class-img img {
+        width: 170px;
+        height: 150px;
+    }
+    .class7 h1 {
+        font-size: 15px;
+    }
+    .class-img2 {
+        margin-left: 90px;
+    }
+    .swiper-slide img {
+        height: 90px;
+        margin-left: 10px;
+    }
+    .class99 button {
+        margin-left: 90px;
+    }
+    .nine-img1 img {
+        width: 406px;
+    }
+    .class101010 h1 {
+        font-size: 20px;
+        padding: 20px;
+    }
+    .class-tra {
+        height: 250px;
+    }
+    .class-tra2 {
+        height: 250px;
+    }
+    .class-top {
+        height: 250px;
+        width: 230px;
+    }
+    .class-fut2 {
+        display: flex;
+        padding: 4px;
+        margin-left: 10px;
+    }
+    .class-fut {
+        margin-left: 20px;
+    }
+    .class-block p {
+        padding-bottom: 10px;
+    }
+    .footer1 a img {
+        width: 80px;
+        height: 40px;
+    }
+    .footer2 p {
+        font-size: 8px;
+    }
+    .footer2 h3 {
+        font-size: 10px;
+    }
+
+
+}
+@media(max-width: 400px) {
+    .hero2 {
+        display: none;
+    }
+
+    .class1 button {
+        margin-left: 1px;
+    }
+
+    .class1 button {
+        font-size: 11px;
+        width: 121px;
+        height: 36px;
+    }
+
+    .class22 img {
+        margin-left: 20px;
+    }
+
+    .class33 h1 {
+        font-size: 10px;
+    }
+
+    .class33 p {
+        font-size: 8px;
+    }
+
+    .class333 img {
+        width: 90px;
+        height: 150px;
+    }
+    .class-img img {
+        width: 120px;
+        height: 130px;
+    }
+    .class66 img {
+        width: 150px;
+        height: 114px;
+    }
+    .class666 h1 {
+        font-size: 10px;
+    }
+    .class666 p {
+        font-size: 10px;
+    }
+    .class-img2 {
+        margin-left: 70px;
+    }
+    .swiper-slide img {
+        height: 90px;
+        margin-left: 10px;
+    }
+    .class88 p {
+        font-size: 10px;
+    }
+    .class88 h1 {
+        font-size: 15px;
+    }
+    .class88 h3 {
+        font-size: 10px;
+    }
+    .class88-img img {
+        width: 400px;
+        height: 300px;
+    }
+    .class99 button {
+        margin-left: 70px;
+    }
+    .nine-img1 img {
+        width: 361px;
+    }
+    .class-tra2 {
+        width: 100px;
+    }
+    .class-block {
+        width: 130px;
+    }
+    .hero2 {
+        display: none;
+    }
+
+}
+
+@media(max-width: 376px)  {
+    .class22 img {
+        margin-left: 5px;
+    }
+    .class3 {
+        flex-direction: column;
+    }
+    .class44 {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .class-444 img {
+        width: 155px;
+        height: 212px;
+        margin-left: 80px;
+    }
+    .class5 {
+        display: flex;
+        padding: 80px;
+        flex-direction: column;
+    }
+    .class-img img {
+        margin-left: -80px;
+    }
+    .class6 {
+        flex-direction: column;
+    }
+    .class66 img {
+        width: 150px;
+        height: 114px;
+        margin-left: 80px;
+        padding-bottom: 40px;
+    }
+    .class-img2 {
+        margin-left: 50px;
+    }
+    .nine-img1 img {
+        width: 338px;
+    }
+    .class-block h1 {
+        font-size: 8px;
+    }
+    .class-top {
+        height: 250px;
+        width: 230px;
+        margin-left: 20px;
+    }
+    .class-title {
+        display: flex;
+        margin: 0 30px;
+        flex-direction: column;
+        padding-bottom: 40px;
+    }
+    .class-top2 {
+        margin-left: -10px;
+        padding: 10px;
+    }
+    .footer {
+        flex-direction: column;
+    }
+}
+@media(max-width: 320px)  {
+    .class1 h1 {
+        font-size: 15px;
+    }
+    .class1 p {
+        font-size: 10px;
+    }
+    .class1 button {
+        margin-left: -10px;
+    }
+    .class22 img {
+        margin-left: -60px;
+    }
+    .class-img2 {
+        margin-left: 30px;
+    }
+    .nine-img1 img {
+        width: 288px;
+    }
+    .class99 button {
+        margin-left: 30px;
+    }
+    .class-img img {
+        margin-left: -100px;
+    }
+        .class-img img {
+            width: 200px;
+            height: 190px;
+        }
+    .class55 h1 {
+        font-size: 18px;
+    }
+    .class55 p {
+        font-size: 10px;
+    }
+    .class-444 img {
+        width: 205px;
+        height: 252px;
+        margin-left: 40px;
+    }
+    .class33 h1 {
+        font-size: 20px;
+    }
+    .class33 p {
+        font-size: 10px;
+    }
+    .class1 h1 {
+        text-align: start;
+        font-size: 20px;
+    }
+    .class1 p {
+        font-size: 14px;
+    }
+    .swiper-wrapper {
+        position: relative;
+        width: 500px;
+        height: 150px;
+        z-index: 1;
+        display: flex;
+        transition-property: transform;
+        box-sizing: content-box;
+    }
+    .swiper {
+        width: 100px;
+        height: 100px;
+    }
+    .footer2 h3 {
+        padding-bottom: 10px;
+    }
+    .footer2 p {
+        margin: 15px 0;
+    }
+    .footer {
+        padding: 20px;
+        margin-left: -95px;
+    }
+
+
+}
